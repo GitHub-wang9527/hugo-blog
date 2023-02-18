@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:GitHub-wang9527/github-9527.github.io.git
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = git@github.com:digitalcraftsman/hugo-cactus-theme.git

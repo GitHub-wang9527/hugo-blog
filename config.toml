@@ -1,0 +1,5 @@
+baseurl = "https://github-wang9527.github.io"
+title = "My blog"
+theme = "cactus"
+root = "/"
+languageCode = "en-us"
