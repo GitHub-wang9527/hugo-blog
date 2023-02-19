@@ -1,5 +1,4 @@
 baseurl = "https://github-wang9527.github.io"
 title = "My blog"
-theme = "hyde"
 root = "/"
 languageCode = "en-us"
